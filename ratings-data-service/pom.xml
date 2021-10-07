@@ -11,10 +11,12 @@
     <groupId>tun.dev</groupId>
     <artifactId>ratings-data-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
     <name>ratings-data-service</name>
     <description>Demo project for Spring Boot</description>
     <properties>
-        <java.version>11</java.version>
+        <java.source>11</java.source>
+        <java.target>11</java.target>
         <spring-cloud.version>2020.0.4</spring-cloud.version>
     </properties>
     <dependencies>
