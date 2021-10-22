@@ -10,5 +10,5 @@ import lombok.NoArgsConstructor;
 public class Rating {
 
     private String movieId;
-    private int rating ;
+    private int rating;
 }
